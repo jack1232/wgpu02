@@ -2,7 +2,7 @@
 
 ## Set Up Development Environment 
 
-This is the source code for the second video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
+This is the source code for second video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
 
 This sample *wgpu* app shows how to set up the development environment for building *wgpu* apps in Rust.
 
