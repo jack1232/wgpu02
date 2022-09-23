@@ -6,7 +6,7 @@ edition = "2018"
 resolver = "2"
 
 [dependencies]
-wgpu = "0.12"
+wgpu = "0.13.1"
 cgmath = "0.18"
 env_logger = "0.9"
 futures = "0.3"
